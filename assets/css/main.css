@@ -199,9 +199,9 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: white;
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: black;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -12137,7 +12137,7 @@ textarea.form-control-lg {
 }
 
 .stroke-text {
-  -webkit-text-stroke: 1px var(--bs-body-color);
+  -webkit-text-stroke: 1px yellow;
   color: transparent;
 }
 
@@ -12633,7 +12633,7 @@ textarea.form-control-lg {
   line-height: 1;
   margin-left: 70px;
   margin-right: 70px;
-  color: var(--bs-primary);
+  color: greenyellow;
 }
 
 .card-blog .card-img img {

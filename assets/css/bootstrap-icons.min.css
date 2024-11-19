@@ -523,7 +523,8 @@
 }
 
 .bi-bar-chart-steps::before {
-    content: "\f17d"
+    content: "\f17d";
+    color:white;
 }
 
 .bi-bar-chart::before {
@@ -3455,7 +3456,8 @@
 }
 
 .bi-layers::before {
-    content: "\f45b"
+    content: "\f45b";
+    color:yellow;
 }
 
 .bi-layout-sidebar-inset-reverse::before {
@@ -5747,7 +5749,8 @@
 }
 
 .bi-infinity::before {
-    content: "\f69e"
+    content: "\f69e";
+    color:blue;
 }
 
 .bi-list-columns-reverse::before {
@@ -6167,11 +6170,12 @@
 }
 
 .bi-braces-asterisk::before {
-    content: "\f70e"
+    content: "\f70e";
+    color:aqua;
 }
 
 .bi-calendar-heart-fill::before {
-    content: "\f70f"
+    content: "\f70f";
 }
 
 .bi-calendar-heart::before {
